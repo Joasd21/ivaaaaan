@@ -6,3 +6,4 @@ FROM tienda_limpia
 GROUP BY Producto
 ORDER BY beneficio_total DESC
 LIMIT 10;
+1
