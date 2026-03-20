@@ -5,3 +5,4 @@ SELECT
   unidades_vendida AS unidades,
   Beneficio_total_eur AS beneficio_total
 FROM tienda_limpia;
+a
