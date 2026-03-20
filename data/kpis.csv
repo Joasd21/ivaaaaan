@@ -3,4 +3,4 @@ SELECT
   SUM(unidades_vendida) AS total_unidades,
   ROUND(SUM(beneficio_total_eur), 2) AS beneficio_total,
   ROUND(AVG(beneficio_total_eur), 2) AS beneficio_medio
-FROM TiendaDeportivaHoja1TiendaDeportivaHoja1;
+FROM tienda_limpia;
