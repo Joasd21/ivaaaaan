@@ -4,4 +4,4 @@ SELECT
   producto AS producto,
   unidades_vendida AS unidades,
   Beneficio_total_eur AS beneficio_total
-FROM TiendaDeportivaHoja1TiendaDeportivaHoja1;
+FROM tienda_limpia;
