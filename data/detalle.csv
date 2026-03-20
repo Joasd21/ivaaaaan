@@ -3,5 +3,5 @@ SELECT
   nivel_de_rentabi AS nivel,
   producto AS producto,
   unidades_vendida AS unidades,
-  Beneficio_total_eur AS beneficio_total
+  Beneficio_total_eur AS beneficio_total,
 FROM tienda_limpia;
