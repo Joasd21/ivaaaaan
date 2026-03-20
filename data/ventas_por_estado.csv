@@ -5,3 +5,4 @@ SELECT
 FROM tienda_limpia
 GROUP BY Estado
 ORDER BY num_ventas DESC;
+1
